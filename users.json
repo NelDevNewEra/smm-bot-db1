@@ -1,11 +1,6 @@
 {
   "6985106103": {
     "balance": 0,
-    "orders": 0,
-    "pendingDeposit": {
-      "amount": 1,
-      "proof": "https://api.telegram.org/file/bot8728353810:AAErY5dRY47fmAKmdCQ7FAhN5OZeOF5Uc80/photos/file_2.jpg",
-      "date": "2026-03-16T17:17:34.386Z"
-    }
+    "orders": 0
   }
 }
